@@ -1,6 +1,13 @@
+---
+layout: default
+title: Guide utilisateur — Softto
+---
+
 # Guide utilisateur — Softto
 
 Plateforme de gestion de tontine · Épargne · Prêts · Intérêts · Réunions · Abonnements
+
+[← Retour à l'accueil](index.html)
 
 ## 1. Présentation
 
